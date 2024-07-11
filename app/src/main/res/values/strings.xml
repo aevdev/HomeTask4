@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HomeTask4</string>
+    <string name="percent">Проценты</string>
+    <string name="percentValue">10</string>
+</resources>
